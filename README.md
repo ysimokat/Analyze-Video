@@ -227,12 +227,6 @@ video2text2summary/
 │       ├── frames/                           # Extracted frames
 │       └── reports/                          # Analysis reports
 │
-├── 📖 docs/                                   # Documentation
-│   ├── INTERACTIVE_TECH_DEMO_SCRIPT.md       # Detailed demo walkthrough
-│   ├── GENERAL_DEMO_SCRIPT.md                # Generic presentation script
-│   ├── CONCEPTS_EXPLAINED.md                 # Beginner-friendly explanations
-│   └── JUPYTER_NOTEBOOK_DEMO_SCRIPT.md       # Notebook demo guide
-│
 └── 🧪 tests/                                  # Unit tests (if applicable)
 ```
 
@@ -439,14 +433,6 @@ Intelligently combining multiple data sources through correlation and aggregatio
 
 ---
 
-## 📚 Documentation
-
-- **[Interactive Tech Demo Script](docs/INTERACTIVE_TECH_DEMO_SCRIPT.md)** - Detailed 22-minute walkthrough with cell-by-cell explanations
-- **[General Demo Script](docs/GENERAL_DEMO_SCRIPT.md)** - Generic presentation script for any video type
-- **[Concepts Explained](docs/CONCEPTS_EXPLAINED.md)** - Beginner-friendly guide explaining WHY each technique is used
-- **[Notebook Demo Script](docs/JUPYTER_NOTEBOOK_DEMO_SCRIPT.md)** - Guide for presenting the Jupyter notebook
-
----
 
 ## 🤝 Contributing
 
@@ -553,8 +539,6 @@ pip install ipywidgets
 
 For questions, suggestions, or collaboration:
 - Open an issue in this repository
-- Check existing documentation in `/docs`
-- Review the code comments and docstrings
 
 ---
 
@@ -582,6 +566,3 @@ Potential improvements and extensions:
 
 - [📓 Demo Notebook](Multi_Modal_Video_Analyzer_Demo.ipynb)
 - [🎨 Streamlit Dashboard](streamlit_app.py)
-- [📖 Full Documentation](docs/)
-- [🎓 Concepts Guide](docs/CONCEPTS_EXPLAINED.md)
-- [🎬 Demo Scripts](docs/INTERACTIVE_TECH_DEMO_SCRIPT.md)
