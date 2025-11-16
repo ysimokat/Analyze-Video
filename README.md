@@ -508,9 +508,7 @@ pip install ipywidgets
 ## 🎓 Learning Resources
 
 **Understanding the Code:**
-1. Start with `CONCEPTS_EXPLAINED.md` - Learn WHY each technique is used
-2. Open `Multi_Modal_Video_Analyzer_Demo.ipynb` - See everything in action
-3. Follow `INTERACTIVE_TECH_DEMO_SCRIPT.md` - Detailed walkthrough
+1. Open `Multi_Modal_Video_Analyzer_Demo.ipynb` - See everything in action
 
 **Key Concepts to Study:**
 - Computer Vision: Image processing, CNNs, OCR
